@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/77b69510-90ee-4969-96dc-ec33acb58d61.svg)](https://wakatime.com/@77b69510-90ee-4969-96dc-ec33acb58d61)
+[![wakatime](https://wakatime.com/badge/user/77b69510-90ee-4969-96dc-ec33acb58d61.svg?style=for-the-badge)](https://wakatime.com/@77b69510-90ee-4969-96dc-ec33acb58d61)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Elwan-51)](https://github.com/Elwan-51/github-profile-trophy)
 
